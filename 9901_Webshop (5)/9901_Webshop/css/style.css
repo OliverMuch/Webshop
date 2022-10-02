@@ -1,0 +1,20 @@
+.bg-main{
+    background-color: grey;
+}
+
+.border-main{
+    border-radius: 0%;
+    border-color: black;
+    border-width: 1px;
+    border-style: inset;
+}
+
+@media (min-width: 768px){
+    .bg-main{
+        background-color: yellow;
+    }
+}
+
+.test{
+    background-color: blue;
+}
